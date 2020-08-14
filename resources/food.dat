@@ -1,0 +1,38 @@
+[American]
+French Fries,787059,potato,salt,vegetable oil
+Hamburger,783501,bread,beef,lettuce,tomato,pickle
+
+[Chinese]
+Kung Pao Beef,783264,beef,soy sauce,garlic,ginger,vegetable oil,peanut,pepper,onion,chicken broth,oyster sauce,hoisin sauce,vinegar,sesame oil,cornstarch
+Dumpling,785397,wheat flour,baking powder,milk,salt,beef,salt
+
+[Korean]
+Bibimbap,786278,rice,cucumber,beans,spinach,carrot,mushroom,squash,beef,sesame oil,pepper
+Dukboki,786285,rice,pepper,sugar,garlic,soy sauce,cabbage,mushroom,fish
+
+[Japanese]
+Sushi,786287,rice,vinegar,sugar,salt,seaweed,crab,avocado,cucumber
+Tempura,783376,tofu,shrimp,squash,bean,sweet potato,mushroom,sweet pepper,broccoli,cauliflower,onion,egg,vegetable oil
+Teriyaki Chicken,782899,chicken,teriyaki sauce
+
+[Italian]
+Spaghetti,786483,tomato,pasta,milk,pea,beef,sugar,margarine,cornstarch,cheese,onion,carrot,salt
+Lasagna,786075,pasta,vegetable oil,onion,garlic,tomato,cheese,pepper,salt,egg,beef,spinach
+
+[Thai]
+Pad Thai,786133,rice,bean,vegetable oil,beef,egg,peanut,fish sauce,garlic,cilantro,sugar,onion,lime,vinegar,pepper,salt
+
+[Indian]
+Chicken Curry,782903,chicken,vegetable oil,onion,garlic,ginger,curry,salt,tomato,yogurt,spinach,carrot,cauliflower,lentil,potato,pea,cilantro
+
+[Mexican]
+Quesadilla,785882,cheese,pepper,vegetable oil,beef,wheat
+Burrito,785788,wheat,cheese,salsa,beef,bean
+Enchilada,785816,wheat,vegetable oil,cheese,bean,tomato,pepper,onion,garlic,salt,cilantro,lime
+
+[Vietnamese]
+Pho,783811,beef,garlic,ginger,onion,vegetable oil,pepper,fish sauce,cinnamon,sugar,cilantro,basil,rice,soy sauce
+
+[Mediterranean]
+Falafel,784249,chickpea,onion,parsley,cilantro,salt,pepper,garlic,cumin,baking powder,wheat,vegetable oil
+Hummus,784242,chickpea,sesame seed,lemon,olive oil,garlic,salt
